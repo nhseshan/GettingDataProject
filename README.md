@@ -2,7 +2,6 @@ GettingDataProject
 ==================
 
 Project for Getting and Cleaning Data Course (Coursera)
-=======================================================
 
 My code cleans up and summarizes data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 Here is the data for this project: 
